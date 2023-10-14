@@ -1,0 +1,35 @@
+-- ftd.text: CROP RECOMMENDATION 
+color: purple
+
+-- ftd.text: OBJECTIVE
+color: purple
+-- ftd.text: The user can provide the soil data from their side manually and the application will predict which crop the user should grow and can also take the assistance from the chatbot for investments and ways to test the soil components and the threats the crop may face. 
+
+-- ftd.text: TEAM
+color:purple
+-- ftd.text: 1 Aditya Agrawal -ML and modelling
+-- ftd.text: 2 Rachita Dashore- front-end ,UI and Back-End
+-- ftd.text: 3 Purvi Choure- ML and modelling
+-- ftd.text: 4 Palak Kumrawat - Front-End ,fastn
+
+-- ftd.text: TECHNOLOGIES USED
+color: purple
+-- ftd.text: 1 Machine learning
+-- ftd.text: 2 Deep Learning
+-- ftd.text: 3 Data Analysis
+-- ftd.text: 4 Front-End (Web Design/HTML & CSS)
+-- ftd.text: 5 Back-End (Flask/Django)
+-- ftd.text: 6 Product Analysis & Design
+-- ftd.text: 7.fastn
+
+-- ftd.text:  KEY OUTCOMES
+color: purple
+-- ftd.text: Anticipate a significant increase in crop yields and resource efficiency, ultimately leading to improved food security and economic prosperity for farming communities.
+
+-- import: fastn.com/assets
+
+-- ftd.rive:
+id: panda
+background.solid: #aaa
+src: https://editor.rive.app/preview/4852-9816-fastn/1328164?mode=animate&artboard=New%20Artboard&animation=loop-play
+width.fixed.px: 400
